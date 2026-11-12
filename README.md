@@ -1,7 +1,7 @@
 # Olá, eu sou o Gabriel Champin 👋
 
 **Estudante de Tecnologia da Informação | Futuro Analista de Dados**
-📍 São Paulo, Brasil · 🎓 FATEC São Bernardo do Campo (Informática para Negócios) · 🔎 **Em busca de estágio na área de dados**
+🎓 FATEC São Bernardo do Campo (Informática para Negócios) · 🔎 **Em busca de estágio na área de dados**
 
 Transformo dados em informação útil: limpo, modelo, analiso e apresento em dashboards.
 
