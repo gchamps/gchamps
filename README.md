@@ -33,7 +33,7 @@ Transformo dados em informação útil: limpo, modelo, analiso e apresento em da
 
 - 🏦 [desafio-feedback-clientes-bancarios](https://github.com/gchamps/desafio-feedback-clientes-bancarios): prompt para extrair insights de feedbacks de clientes
 - 🧠 [engenharia-de-prompts-notebooklm](https://github.com/gchamps/engenharia-de-prompts-notebooklm): estudo estruturado de engenharia de prompt
-- 🐍 [fatecsbc_linguagemprograma-1](https://github.com/gchamps/fatecsbc_linguagemprograma-1): exercícios de Python e projeto de extensão (sistema para petshop)
+- 🐍 [fatec-linguagem-programacao-1](https://github.com/gchamps/fatec-linguagem-programacao-1): exercícios de Python e projeto de extensão (sistema para petshop)
 - 🧘 [bs-pilates-site](https://github.com/gchamps/bs-pilates-site): site institucional em HTML, CSS e JavaScript
 
 ## 🎯 Foco atual
